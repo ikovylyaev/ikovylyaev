@@ -1,16 +1,72 @@
-### Hi there 👋
-
-<!--
-**ikovylyaev/ikovylyaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div class="col-12" style="padding: 40px; background: #fff; margin: 0 0 40px 0">
+        <div class="row">
+            <div class="col-md-2">
+                <img src="/img/PdrZx9UWwqs.jpg" alt="Ivan Kovylyaev" style="width: 100%; border-radius: 50%;">
+            </div>
+            <div class="col-md-10">
+                <div class="row">
+                    <div class="col">
+                        <h1><b>Ivan Kovylyaev</b></h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <p class="description">specialization</p>
+                        <p class="info-description">web-design and development</p>
+                        <p class="description">hobbies</p>
+                        <p class="info-description mb-0">photo, video</p>
+                    </div>
+                    <div class="col">
+                        <p class="description">place</p>
+                        <p class="info-description">Saint-Petersburg</p>
+                        <p class="description">active project</p>
+                        <p class="info-description mb-0"></p>
+                    </div>
+                    <div class="col">
+                        <p class="description">mail</p>
+                        <p class="info-description">mail@ikovylyaev.com</p>
+                        <p class="description">social</p>
+                        <p class="info-description mb-0">
+                            <a style="color: #fff; font-size: 1.3rem; margin-right: 20px" href="https://vk.com/ikovylyaev"><i class="fab fa-vk"></i></a>
+                            <a style="color: #fff; font-size: 1.3rem; margin-right: 20px" href="https://instagram.com/ikovylyaev"><i class="fab fa-instagram"></i></a>
+                            <a style="color: #fff; font-size: 1.3rem; margin-right: 20px" href="https://500px.com/azimytfoto"><i class="fab fa-500px"></i></a>
+                            <a style="color: #fff; font-size: 1.3rem; margin-right: 20px" href="https://www.behance.net/ikovylyaev"><i class="fab fa-behance"></i></a>
+                            <a style="color: #fff; font-size: 1.3rem; margin-right: 20px" href="https://github.com/ikovylyaev"><i class="fab fa-github"></i></a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-12" style="padding: 40px; background: #fff; margin: 0 0 40px 0">
+        <div class="row">
+            <div class="col"><h2>using software</h2></div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <h4>web-design</h4>
+                <p class="mb-0">adobe xd</p>
+                <p class="mb-0">figma</p>
+                <p class="mb-0">adobe photoshop</p>
+                <p class="mb-0">colorscheme</p>
+            </div>
+            <div class="col">
+                <h4>web-development</h4>
+                <p class="mb-0">sublime text 3</p>
+                <p class="mb-0">openserver</p>
+                <p class="mb-0">firefox developer edition</p>
+                <p class="mb-0">hyper</p>
+            </div>
+            <div class="col">
+                <h4>photo</h4>
+                <p class="mb-0">adobe lightroom</p>
+                <p class="mb-0">adobe photoshop</p>
+            </div>
+            <div class="col">
+                <h4>video</h4>
+                <p class="mb-0">adobe premiere pro</p>
+                <p class="mb-0">adobe after effects</p>
+                <p class="mb-0">davinci resolve</p>
+            </div>
+        </div>
+    </div>
