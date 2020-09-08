@@ -1,4 +1,22 @@
-<div class="col-12" style="padding: 40px; background: #fff; margin: 0 0 40px 0">
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+    <link href="http://ikovylyaev.com/css/bootstrap.css" rel="stylesheet">
+    <link href="http://ikovylyaev.com/css/animate.css" rel="stylesheet">
+    <link href="http://ikovylyaev.com/css/main.css" rel="stylesheet">
+    <link href="http://ikovylyaev.com/css/hamburgers.min.css" rel="stylesheet">
+    <link href="http://ikovylyaev.com/css/technology-icons.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script><style type="text/css"></style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+
+</head>
+
+  <body>
+<div class="main-body container-fluid" style="padding: 0 40px">
+<div class="row m-0">
+    <div class="col-12" style="padding: 40px; background: #151515; margin: 0 0 40px 0">
         <div class="row">
             <div class="col-md-2">
                 <img src="/img/PdrZx9UWwqs.jpg" alt="Ivan Kovylyaev" style="width: 100%; border-radius: 50%;">
@@ -70,3 +88,32 @@
             </div>
         </div>
     </div>
+    <div class="col-12" style="padding: 40px; background: #fff; margin: 0 0 40px 0">
+        <div class="row">
+            <div class="col"><h2>short info</h2></div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <p>web-designer and developer from Yekaterinburg. worked in progects SchoolOnline, UralPhoto. now working on project recyclica. hobbies: photo, video. </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-12" style="padding: 40px; background: #fff; margin: 0 0 40px 0">
+        <div class="row">
+            <div class="col" style="vertical-align: middle;"><h2>want to work with me?</h2></div>
+            <div class="col text-right" style="vertical-align: middle;">
+                <a href="https://goo.gl/forms/I0u6zmtkNt4wSm9U2" target="blank" class="btn btn-outline-light">brief</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</div>
+
+  
+  
+
+  
+
+</body></html>
