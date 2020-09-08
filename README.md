@@ -1,7 +1,6 @@
 <html lang="en"><head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
     <link href="http://ikovylyaev.com/css/bootstrap.css" rel="stylesheet">
     <link href="http://ikovylyaev.com/css/animate.css" rel="stylesheet">
@@ -10,9 +9,7 @@
     <link href="http://ikovylyaev.com/css/technology-icons.css" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script><style type="text/css"></style>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
-
 </head>
-
   <body>
 <div class="main-body container-fluid" style="padding: 0 40px">
 <div class="row m-0">
@@ -107,13 +104,4 @@
         </div>
     </div>
 </div>
-
-
 </div>
-
-  
-  
-
-  
-
-</body></html>
